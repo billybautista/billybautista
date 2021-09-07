@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71783387/132381531-4ce59c75-9168-483f-954a-648a4b2d9167.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/71783387/132381531-4ce59c75-9168-483f-954a-648a4b2d9167.png" width="100%" alt='Intro'>
 </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
