@@ -18,7 +18,9 @@
 - Angular
 ---
 
-### 📫 How to reach me: billy.bautista.cornelio@gmail.com
+### 📫 How to reach me: 
+- mail: billy.bautista.cornelio@gmail.com
+- Linkedin: https://www.linkedin.com/in/billy-bautista/
 ---
 
 ### Tech & Tools Preference
