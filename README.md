@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**billybautista/billybautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71783387/132381531-4ce59c75-9168-483f-954a-648a4b2d9167.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
