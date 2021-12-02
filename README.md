@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- React Native
+- Go
 
 ---
 ### 🎓 I’m Interested in Learning:
