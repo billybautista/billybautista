@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Go
+- MongoDB
 
 ---
 ### 🎓 I’m Interested in Learning:
